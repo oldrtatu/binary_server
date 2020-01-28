@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "binary_server",
+  "version": "1.0.0",
+  "description": "Node, Express, Socket server for binary option trading platform.",
+  "main": "index.js",
+  "repository": "https://github.com/rtatu/binary_server.git",
+  "author": "Rohit Tatu <rohit.tatu896@gmail.com>",
+  "license": "MIT"
+}
